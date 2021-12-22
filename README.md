@@ -12,11 +12,10 @@
 - 👯 I’m looking to collaborate on **open source projects**
  
  
-- 📫 Reach  out to me, I don't bite  **ezinwanneaka@gmail.com**
+- 📫 Reach  out to me at  **ezinwanneaka@gmail.com**
 - 
  
-- ⚡ Fun fact: I speak 3 languages ( English, Igbo, Pidgin)
-
+- ⚡ Fun fact: I love football and chess
 
 -----
 ### Languages and Tools:
@@ -31,14 +30,14 @@
 </p>
 <a href="https://icons8.com/icon/n3QRpDA7KZ7P/tensorflow">Tensorflow icon by Icons8</a>
 -----
-### Talk with me, I am kinda cool:
-<a href = "https://linkedin.com/in/sampsonipiankama"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/ipiankama"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+### I don't bite, let's talk:
+<a href = "https://www.linkedin.com/in/ezinwanne-chinemelu-aka-97b187120/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/aka_chineme"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <br />
 
 -----
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=SampsonIpiankama">
+    <img src="https://komarev.com/ghpvc/?username=Chinemelu4">
 </a>
-<a href="https://github.com/SampsonIpiankama?tab=followers"><img src="https://img.shields.io/github/followers/SampsonIpiankama?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Chinemelu4?tab=followers"><img src="https://img.shields.io/github/followers/Chinemelu4?label=Followers&style=social" alt="GitHub Badge"></a>
