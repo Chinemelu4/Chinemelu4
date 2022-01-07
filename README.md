@@ -31,7 +31,7 @@
     <tr>
     <tr>
       <td><a href="https://github.com/Chinemelu4/Movie-Recommender"><b>Movie Recommender App!</b></a></td>
-      <td>A Content-based movie recommendation system that recommend movies to a user by using the similarity of movies. This recommender system recommends movies based on their description or features. This application provides shows viewers sentiment(Negative/Positive), the ratings, about the movie and gives a detailed description of the characters in the movie(Date of Birth), Biography and so on.
+      <td>This movie recommender was created using python programming language it is a content based movie recommender based on the the description of the movies. The dataset used was an IMDB movie rating and description dataset.
 </td>
     </tr>
     <tr>
@@ -40,7 +40,7 @@
     </tr>
     <tr>
       <td><a href="https://github.com/Chinemelu4/Streamlit-iris-app"><b>Iris flower prediction App!</b></a></td>
-      <td>An NLP Bible App that identify the Part of Speech of each word in the bible,Keyword and a graphical visualization of most common word in each verses.</td>
+      <td>Prediction of the Iris flower classess using KNN and also deployment using streamlit and Heroku</td>
     </tr>
   </tbody>
 </table>
