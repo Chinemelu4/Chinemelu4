@@ -5,7 +5,7 @@
 ## I'm a Data Scientist and Analyst
 - ✍ Feel free to go through my works here **[My Portfolio](https://github.com/Chinemelu4?tab=repositories)**
  
-- 🔭 I’m currently working on a **Computer vision Project for oblect detection and price suggestion**.
+- 🔭 I’m currently working on a **Computer vision Project for object detection and price suggestion**.
  
 - 🌱 I’m currently learning **web development for machine learning model deployment**
  
@@ -15,7 +15,7 @@
  
 - ⚡ Fun fact: I love football and chess
 
-<h2>Projects I'm proud of</h2>
+<h2>Some of me key projects You would love to check out</h2>
 <table>
   <thead align="center">
     <tr border: none;>
