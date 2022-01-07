@@ -35,7 +35,7 @@
 </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Chinemelu4/leaves_classifier"><b>Leaves Classifier App!</b></a></td>
+      <td><a href="https://github.com/Chinemelu4/Naija_leaf"><b>Leaves Classifier App!</b></a></td>
       <td> Nigerian leaves classifier uses CNN (Convolutional Neural Network) to classify image inputs and determine whether they are one of the 5 major subsistence leaves in Nigeria </td>
     </tr>
     <tr>
