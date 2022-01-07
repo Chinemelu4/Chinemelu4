@@ -25,30 +25,22 @@
   </thead>
   <tbody>
      <tr>
-      <td><a href="https://github.com/Gift-Ojeabulu/Covid-Surveillance-System"><b>COVID Data App!</b></a></td>
-      <td> Covid-19 Real-time Surveillance System  monitor COVID over time, detect changes in COVID occurrence (e.g., outbreaks), determine risk factors for COVID and populations at greatest risk so that appropriate action can be taken to either prevent or stop further spread of COVID.</td>
+      <td><a href="https://github.com/Chinemelu4/tweet-stalker-app"><b>Tweeter App!</b></a></td>
+      <td> This an app that enables you analyze the last 1000 tweets of any individual by caring out sentimental analysis on the tweets.</td>
     </tr>
     <tr>
     <tr>
-      <td><a href="https://github.com/Gift-Ojeabulu/Movie-Recommendation-System"><b>Movie Recommender App!</b></a></td>
+      <td><a href="https://github.com/Chinemelu4/Movie-Recommender"><b>Movie Recommender App!</b></a></td>
       <td>A Content-based movie recommendation system that recommend movies to a user by using the similarity of movies. This recommender system recommends movies based on their description or features. This application provides shows viewers sentiment(Negative/Positive), the ratings, about the movie and gives a detailed description of the characters in the movie(Date of Birth), Biography and so on.
 </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Gift-Ojeabulu/Hepatitis-predmedical-App"><b>Hepatitis Medical App!</b></a></td>
-      <td> Hepatitis B Fatality Predictor and Prescriptor help health practitioners with the prediction of a patient having Hepatitis B and prescribe ways to curb these if patient are Liable to die.</td>
+      <td><a href="https://github.com/Chinemelu4/leaves_classifier"><b>Leaves Classifier App!</b></a></td>
+      <td> Nigerian leaves classifier uses CNN (Convolutional Neural Network) to classify image inputs and determine whether they are one of the 5 major subsistence leaves in Nigeria </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Gift-Ojeabulu/BibleText-Analysis"><b>THE HolyBible Text Analysis App!</b></a></td>
+      <td><a href="https://github.com/Chinemelu4/Streamlit-iris-app"><b>Iris flower prediction App!</b></a></td>
       <td>An NLP Bible App that identify the Part of Speech of each word in the bible,Keyword and a graphical visualization of most common word in each verses.</td>
-    </tr>
-     <tr>
-      <td><a href="https://github.com/Gift-Ojeabulu/Barbershop"><b>Barber's Shop!</b></a></td>
-      <td> The goal of the project was to make locating a barbing salon in the subject area (Orimerunmu, Ogun state) so easy and to reduce unnnecessary queuing/waiting time of customer's in the barbing salon by building a barber's website for the presumed barber called Oscar. I used Oscar because that is my middle name.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Gift-Ojeabulu/Twitter-SentimentAirline-Analysis"><b>Customer support sentiment app!</b></a></td>
-      <td> Tweets Customer Sentiment Analysis determine the overall opinion on US Airlines. Companies and brands often utilize sentiment analysis to monitor brand reputation across social media platforms or across the web as a whole..</td>
     </tr>
   </tbody>
 </table>
