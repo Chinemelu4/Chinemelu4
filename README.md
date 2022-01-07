@@ -27,7 +27,6 @@
     <a style="padding-right:8px;" href="https://www.tensorflow.org/"><img src="https://img.icons8.com/color/96/000000/tensorflow.png"/>   
     <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="html5"></code>
     <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="css3"></code>
-    <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="mysql"></code>
     <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" title="sklearn">
     <code><img height="40" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" title="flask"></code>
     <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="git"></code>
@@ -43,14 +42,21 @@
 <a href = "https://twitter.com/aka_chineme"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <br />
 
- ### Worked with 
-
-
 
 
 [![](https://raw.githubusercontent.com/Chinemelu4/Chinemelu4/main/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Chinemelu4/Chinemelu4/main/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Chinemelu4/Chinemelu4/main/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Chinemelu4/Chinemelu4/main/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Chinemelu4/Chinemelu4/main/profile-summary-card-output/monokai/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+ 
+ ###  Most Used Languages & Github Stats
+
+<a href="https://github.com/Chinemelu4/Chinemelu4">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chinemelu4&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+    
+<a href="https://github.com/Chinemelu4/Chinemelu4">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chinemelu4&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Gift GitHub Stats" />
+</a>
 -----
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
