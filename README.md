@@ -1,6 +1,6 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Ezinwanne Aka</h1>
 
-<img align="right" alt="GIF" src="https://unsplash.com/photos/zwd435-ewb4.gif" width="400" height="300" />
+<img align="right" alt="GIF" src="https://images.unsplash.com/photo-1620712943543-bcc4688e7485?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fGRhdGElMjBzY2llbmNlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=600&q=60" width="400" height="300" />
 
 ## I'm a Data Scientist and Analyst
 - ✍ Feel free to go through my works here **[My Portfolio](https://github.com/Chinemelu4?tab=repositories)**
