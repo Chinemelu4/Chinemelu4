@@ -26,7 +26,7 @@
   <tbody>
      <tr>
       <td><a href="https://github.com/Chinemelu4/tweep-app"><b>Tweeter App!</b></a></td>
-      <td> This an app that enables you analyze up to 3000 of the most recent tweets of any individual bproviding information like their most active time of day, overall tweet sentiment, accounts there interact with the most, frequent words used, topics they usually engage in etc.</td>
+      <td> This an app that enables you analyze up to 3000 of the most recent tweets of any individual by providing information like their most active time of day, overall tweet sentiment, accounts there interact with the most, frequent words used, topics they usually engage in etc.</td>
     </tr>
     <tr>
     <tr>
