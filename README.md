@@ -25,7 +25,7 @@
   </thead>
   <tbody>
      <tr>
-      <td><a href="https://github.com/Chinemelu4/tweet-stalker-app"><b>Tweeter App!</b></a></td>
+      <td><a href="https://github.com/Chinemelu4/tweep-app"><b>Tweeter App!</b></a></td>
       <td> This an app that enables you analyze the last 1000 tweets of any individual by caring out sentimental analysis on the tweets.</td>
     </tr>
     <tr>
